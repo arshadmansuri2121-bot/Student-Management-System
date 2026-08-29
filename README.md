@@ -23,10 +23,8 @@ This project demonstrates practical knowledge of **database management, applicat
 
 ## 🛠️ Technologies Used
 
-- Programming Language: **[Add your language here]**
-- Database: **[Add database name here]**
-- Development Tool/IDE: **[Add IDE here]**
-- Other Tools: **[Add if applicable]**
+- Programming Language: **[MySQL]**
+- Database: **[Student Management Syatem]**
 
 ## 🗂️ Student Information
 
